@@ -1,7 +1,3 @@
-#
-# binary files
-#
-
 import pickle
 
 aList = ["iphone", "xioami", ["telefono 1", "telefono 2"], "opo"]

@@ -1,7 +1,3 @@
-#
-#
-#
-
 import pickle
 
 with open('list.bin','rb') as fh:

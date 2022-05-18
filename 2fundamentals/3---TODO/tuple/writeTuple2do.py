@@ -1,6 +1,3 @@
-#
-# 2do
-#
 import pickle
 
 t=("enero","febrero","marzo","abril","mayo")

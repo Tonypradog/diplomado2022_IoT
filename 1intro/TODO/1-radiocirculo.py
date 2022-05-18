@@ -1,9 +1,6 @@
 
 import math
-
-
 print("\n\n Radio de un circulo inscrito en un triángulo de lados A, B, y C.  \n")
-
 A= float(input("Inserte valor de A: "))
 B= float(input("Inserte valor de B: "))
 C= float(input("Inserte valor de C: "))

@@ -1,11 +1,5 @@
-#
-# read binary file (dictionary)
-# and print it
-#
-
 import pickle
-import pprint #impresion legible de cadena u objeto
-
+import pprint
 
 with open('dic.bin','rb') as fh:
         adic = pickle.load(fh) 
